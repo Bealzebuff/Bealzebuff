@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bealzebuff
+- 👀 I’m interested in games you never heard of.
+- 🌱 I’m currently learning MySQL in Visual Studio 2019
+- 💞️ I’m looking to collaborate on nothing. I'm not that good.
+- 📫 How to reach me Bealzebuff@gmail.com
